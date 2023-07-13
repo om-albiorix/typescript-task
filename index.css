@@ -1,0 +1,19 @@
+body {
+    background-color: #1d2630;
+  }
+  
+  * {
+    color: #fff;
+  }
+  
+  .mybtn {
+    background: #fff;
+    color: #1d2630;
+  }
+  
+  .mybtn:hover {
+    background: #1d2630 !important;
+    color: #fff !important;
+    border: 1px solid white;
+    transition: 1s;
+  }
